@@ -1,0 +1,43 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# --- Virtual environments ---
+.venv/
+venv/
+env/
+ENV/
+
+# --- Environment / secrets ---
+.env
+.env.*
+*.pem
+*.key
+credentials*
+secrets*
+
+# --- OS ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Editors ---
+.vscode/
+.idea/
+*.swp
+*~
+
+# --- Office / Tableau temp files ---
+~$*
+*.twbr
+~*.twb*
+*.hyper
+
+# --- Large generated data (recreate with: python src/generate_data.py) ---
+data/transactions.csv

@@ -1,0 +1,26 @@
+segment,region,did_spend_per_cust
+Affluent Frequent,Northeast,314.8662507188037
+Affluent Frequent,Southeast,137.45070444714656
+Affluent Frequent,Midwest,316.2265516171092
+Affluent Frequent,West,99.3554488031914
+Affluent Frequent,Southwest,285.90978431372605
+Digital Native,Northeast,145.90760590195146
+Digital Native,Southeast,144.75399401704885
+Digital Native,Midwest,203.1508016050766
+Digital Native,West,248.93201601816986
+Digital Native,Southwest,226.84154836031553
+Mainstream,Northeast,49.5214654944823
+Mainstream,Southeast,76.54465604395614
+Mainstream,Midwest,47.93992220061136
+Mainstream,West,155.35520170325094
+Mainstream,Southwest,23.47601678094543
+Budget Occasional,Northeast,-1.2931439393939286
+Budget Occasional,Southeast,4.217781385281398
+Budget Occasional,Midwest,-11.162076607542986
+Budget Occasional,West,-22.05304352677024
+Budget Occasional,Southwest,25.00038259640621
+Dormant Reactivation,Northeast,-19.66661776212834
+Dormant Reactivation,Southeast,-4.2656007028332965
+Dormant Reactivation,Midwest,-0.9779681866384067
+Dormant Reactivation,West,-37.80070593149537
+Dormant Reactivation,Southwest,-50.8940459770115
